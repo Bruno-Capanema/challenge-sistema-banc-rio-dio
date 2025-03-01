@@ -61,4 +61,4 @@ O foco do projeto é a **simplicidade e a usabilidade**, garantindo que o usuár
 1. **Clone o repositório** em sua máquina local:  
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   [git clone](https://github.com/Bruno-Capanema/challenge-sistema-banc-rio-dio.git)
