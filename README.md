@@ -61,4 +61,17 @@ O foco do projeto é a **simplicidade e a usabilidade**, garantindo que o usuár
 1. **Clone o repositório** em sua máquina local:  
 
    ```bash
-   [git clone](https://github.com/Bruno-Capanema/challenge-sistema-banc-rio-dio.git)
+   git clone https://github.com/Bruno-Capanema/challenge-sistema-banc-rio-dio.git
+   ```
+   **Acesse o diretório do projeto:**
+
+  ```bash
+   cd challenge-sistema-banc-rio-dio
+  ```
+**Execute o arquivo principal do sistema:**
+
+  ```bash
+  python desafio_sistema_bancario.py
+  ```
+
+## Obrigado :))
